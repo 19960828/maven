@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 04 03:50:40 CST 2019
-spring-context-support-4.2.5.RELEASE.jar>lhj-core=
-spring-context-support-4.2.5.RELEASE.pom>lhj-core=
+#Fri Jan 04 03:33:25 CST 2019
+spring-context-support-4.2.5.RELEASE.pom>=
+spring-context-support-4.2.5.RELEASE.jar>=
