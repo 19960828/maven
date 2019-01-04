@@ -1,4 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 04 11:34:38 CST 2019
+#Fri Jan 04 18:11:37 CST 2019
 spring-webmvc-4.2.5.RELEASE.jar>lhj-core=
 spring-webmvc-4.2.5.RELEASE.pom>lhj-core=
+spring-webmvc-4.2.5.RELEASE.jar>hjieli-core=
+spring-webmvc-4.2.5.RELEASE.jar>=
+spring-webmvc-4.2.5.RELEASE.pom>hjieli-core=
