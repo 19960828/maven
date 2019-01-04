@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 04 03:34:02 CST 2019
-spring-web-4.2.5.RELEASE.jar>=
-spring-web-4.2.5.RELEASE.pom>=
+#Fri Jan 04 11:34:38 CST 2019
+spring-web-4.2.5.RELEASE.jar>lhj-core=
+spring-web-4.2.5.RELEASE.pom>lhj-core=

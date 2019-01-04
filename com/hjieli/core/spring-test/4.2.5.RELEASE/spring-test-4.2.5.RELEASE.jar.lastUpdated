@@ -1,5 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 04 03:50:40 CST 2019
+#Fri Jan 04 11:36:22 CST 2019
 http\://maven.aliyun.com/nexus/content/groups/public/.error=
-https\://gitee.com/haojieli/maven/blob/master/.lastUpdated=1546545040355
-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1546545032346
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1546572982375

@@ -1,5 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 04 03:50:21 CST 2019
+#Fri Jan 04 11:33:44 CST 2019
+https\://raw.githubusercontent.com/19960828/maven/master/.error=Could not transfer artifact com.hjieli.core\:spring-tx\:pom\:4.2.5.RELEASE from/to lhj-core (https\://raw.githubusercontent.com/19960828/maven/master/)\: connect timed out
+@default-lhj-core-https\://raw.githubusercontent.com/19960828/maven/master/.lastUpdated=1546572824036
 http\://maven.aliyun.com/nexus/content/groups/public/.error=
-https\://gitee.com/haojieli/maven/blob/master/.lastUpdated=1546545021212
-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1546545018574
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1546572740839

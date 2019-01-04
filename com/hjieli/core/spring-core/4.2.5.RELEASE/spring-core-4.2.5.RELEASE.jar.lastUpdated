@@ -1,6 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 04 04:34:48 CST 2019
-https\://github.com/19960828/maven/.error=
+#Fri Jan 04 11:36:22 CST 2019
 http\://maven.aliyun.com/nexus/content/groups/public/.error=
-https\://github.com/19960828/maven/.lastUpdated=1546547688695
-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1546547688241
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1546572982364
