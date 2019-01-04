@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.HyDevelop</groupId>
+  <artifactId>HyCommonUtils</artifactId>
+  <version>1.1.0.5</version>
+  <name>HyDevelop/HyCommonUtils</name>
+  <description>一个很有用的工具项目...? ( 雾</description>
+  <url>https://github.com/HyDevelop/HyCommonUtils</url>
+  <inceptionYear>2018</inceptionYear>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://api.github.com/licenses/mit</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>HyDevelop</id>
+      <name>- HyDEV 开发组 -</name>
+      <email>admin@moecraft.cc</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git://github.com/HyDevelop/HyCommonUtils.git</connection>
+    <developerConnection>scm:git://github.com/HyDevelop/HyCommonUtils.git</developerConnection>
+    <url>git://github.com/HyDevelop/HyCommonUtils.git</url>
+  </scm>
+  <properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>commons-codec</groupId>
+      <artifactId>commons-codec</artifactId>
+      <version>1.9</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-lang3</artifactId>
+      <version>3.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.16.18</version>
+      <scope>provided</scope>
+    </dependency>
+  </dependencies>
+</project>

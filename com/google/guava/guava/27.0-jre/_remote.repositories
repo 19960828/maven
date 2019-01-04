@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 26 17:16:18 CST 2018
+guava-27.0-jre-sources.jar>alimaven=
+guava-27.0-jre.jar>alimaven=
+guava-27.0-jre.pom>alimaven=
