@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 04 11:36:22 CST 2019
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact javax\:javaee-api\:jar\:7.0 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: E\:\\haojieli\\maven-workspace\\repository\\javax\\javaee-api\\7.0\\aether-dce54749-c515-4924-b918-c5a777f846db-javaee-api-7.0.jar-in-progress (\u7CFB\u7EDF\u627E\u4E0D\u5230\u6307\u5B9A\u7684\u6587\u4EF6\u3002)
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1546572982380

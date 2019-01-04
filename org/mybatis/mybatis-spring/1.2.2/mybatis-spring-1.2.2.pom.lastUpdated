@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 01 15:07:27 CST 2018
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.mybatis\:mybatis-spring\:pom\:1.2.2 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: E\:\\haojieli\\maven-workspace\\repository\\org\\mybatis\\mybatis-spring\\1.2.2\\aether-372a4dab-999d-41ff-93e8-b904e46aecd9-mybatis-spring-1.2.2.pom-in-progress (\u7CFB\u7EDF\u627E\u4E0D\u5230\u6307\u5B9A\u7684\u6587\u4EF6\u3002)
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1541056047832

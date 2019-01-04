@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 01 15:11:06 CST 2018
+httpclient-4.0-sources.jar>alimaven=
+httpclient-4.0.jar>alimaven=
+httpclient-4.0.pom>alimaven=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jan 02 21:12:14 CST 2019
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.beanshell\:bsh\:jar\:2.0b4 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: E\:\\haojieli\\maven-workspace\\repository\\org\\beanshell\\bsh\\2.0b4\\aether-1036854f-369b-4044-98fe-8c9dd99978d5-bsh-2.0b4.jar-in-progress (\u7CFB\u7EDF\u627E\u4E0D\u5230\u6307\u5B9A\u7684\u6587\u4EF6\u3002)
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1546434734607
